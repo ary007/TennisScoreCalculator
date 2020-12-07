@@ -3,8 +3,11 @@
 Created as per the problem statement
 https://github.com/DiUS/coding-tests/blob/master/dius_tennis.md
 
-##Prerequisite
+## Prerequisite
+
+```bash
 Java 8 or above
+```
 
 ## Installation
 
